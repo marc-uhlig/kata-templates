@@ -1,0 +1,7 @@
+= Kata Templates
+
+Collection of kata templates.
+
+Start by working through the https://klosebrothers.atlassian.net/wiki/spaces/KB/pages/2307391491/Apprentice+Modules[Apprentice Modules].
+
+image::https://i.pinimg.com/originals/21/cd/93/21cd93bbff450361bd742bba7aba832f.jpg[Palpatine motivating his Apprentice, 500]
